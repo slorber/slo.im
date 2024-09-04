@@ -2,9 +2,9 @@
 /thread                     https://x.com/sebastienlorber/status/1831344021358174401
 /last/thread                https://x.com/sebastienlorber/status/1831344021358174401
 /thread/last                https://x.com/sebastienlorber/status/1831344021358174401
-/retweet                    https://x.com/sebastienlorber/status/1831344021358174401
 
-# /retweet                    https://x.com/intent/retweet?tweet_id=1831344021358174401
+# /retweet                    https://x.com/sebastienlorber/status/1831344021358174401
+/retweet                    https://x.com/intent/retweet?tweet_id=1831344021358174401
 
 /last/newsletter            https://thisweekinreact.com/newsletter/199
 /newsletter/last            https://thisweekinreact.com/newsletter/199
