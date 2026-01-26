@@ -50,7 +50,8 @@
 
 
 
-/x/feed                     https://x.com/search?q=list%3A1462723878950690817%20%2Bmin_retweets%3A10%20%2Bfilter%3Alinks%20-%22gpt%22%20-%22web3%22%20-%22crypto%22%20-%22bitcoin%22%20-%22midjourney%22%20-%22ukraine%22%20-%22gpt4%22%20-%22chatgpt%22%20-%22vibe%22&src=typed_query&f=live
+/x/feed                     https://x.com/search?q=list%3A1462723878950690817%20min_faves%3A100%20%2Bfilter%3Alinks%20-%22gpt%22%20-%22web3%22%20-%22crypto%22%20-%22bitcoin%22%20-%22midjourney%22%20-%22ukraine%22%20-%22gaza%22%20-%22chatgpt%22%20-%22vibe%22&src=typed_query&f=live
+/x/feed/old                 https://x.com/search?q=list%3A1462723878950690817%20%2Bmin_retweets%3A10%20%2Bfilter%3Alinks%20-%22gpt%22%20-%22web3%22%20-%22crypto%22%20-%22bitcoin%22%20-%22midjourney%22%20-%22ukraine%22%20-%22gpt4%22%20-%22chatgpt%22%20-%22vibe%22&src=typed_query&f=live
 
 
 /fun/bottom                 https://twitter.com/sebastienlorber/status/1594977749659156480
