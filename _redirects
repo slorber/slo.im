@@ -18,15 +18,14 @@
 
 
 
-/thread                     https://x.com/sebastienlorber/status/1877058432018075979
-/last/thread                https://x.com/sebastienlorber/status/1877058432018075979
-/thread/last                https://x.com/sebastienlorber/status/1877058432018075979
+/thread                     /last/x
+/last/thread                /last/x
+/thread/last                /last/x
 
 # /retweet                    https://x.com/sebastienlorber/status/1866908875653288091
 /retweet                    https://x.com/intent/retweet?tweet_id=1877058432018075979
 
-/last/newsletter            https://thisweekinreact.com/newsletter/216
-/newsletter/last            https://thisweekinreact.com/newsletter/216
+/newsletter/last            /last/newsletter
 
 
 
